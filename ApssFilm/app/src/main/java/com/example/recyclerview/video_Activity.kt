@@ -11,7 +11,7 @@ class video_Activity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_video)
-        val videoId=intent.getIntExtra("videoId",-1)
+        val videoId=intent.getIntExtra("shadow",0)
         videoView=findViewById(R.id.vv_video)
         val videoPath="android.resource://${packageName}/${videoId}"
         videoView.setVideoURI(Uri.parse(videoPath))

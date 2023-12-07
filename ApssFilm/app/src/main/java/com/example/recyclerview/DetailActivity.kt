@@ -6,7 +6,6 @@ import android.os.Build
 import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.VideoView
 import androidx.appcompat.app.AppCompatActivity
 
 class DetailActivity : AppCompatActivity() {
@@ -16,10 +15,10 @@ class DetailActivity : AppCompatActivity() {
         setContentView(R.layout.activity_detail)
         val receivedData=if (Build.VERSION.SDK_INT>=33){
             @Suppress("DEPRECATION")
-            intent.getParcelableExtra<video>("shadow")
+            intent.getParcelableExtra<Makanan>("shadow")
         }else{
             @Suppress("DEPRECATION")
-            intent.getParcelableExtra<video>("shadow")
+            intent.getParcelableExtra<Makanan>("shadow")
         }
         val gambar:ImageView=findViewById(R.id.img_gambar)
         val judul:TextView=findViewById(R.id.tv_Judul)
@@ -31,7 +30,7 @@ class DetailActivity : AppCompatActivity() {
             description.text=receivedData.data_deskripsi
             playButton.setOnClickListener{
                 val videoIntent= Intent(this,video_Activity::class.java)
-                videoIntent.putExtra("videoId",receivedData.videoId)
+                videoIntent.putExtra("shadow",receivedData.videoId)
                 startActivity(videoIntent)
             }
         }

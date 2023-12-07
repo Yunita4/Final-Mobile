@@ -2,81 +2,79 @@
     <string name="app_name">recyclerview</string>
     <string name="judul">judul</string>
     <string name="description">description</string>
+    <string name="logout">Logout</string>
     <string-array name="judul_video">
-        <item>Dilan 1990</item>
-        <item>172 Days</item>
-        <item>Dear Nathan</item>
-        <item>Melo Dylan</item>
-        <item>Terlalu Tampan</item>
-        <item>Mappacci</item>
-        <item>Mariposa</item>
-        <item>Teman Tapi Menikah</item>
-        <item>KKN di Desa Penari</item>
-        <item>Uang Panai</item>
-        <item>Jomblo Fisabilillah</item>
-        <item>Ganjil Genap</item>
-        <item>Budi Pekerti</item>
-        <item>Ketika Berhenti Di Sini</item>
-        <item>Kejar Mimpi</item>
-        <item>Surat Cinta Untuk Strala</item>
+        <item>Potato</item>
+        <item>Bakso goreng</item>
+        <item>Cake</item>
+        <item>Cheserol</item>
+        <item>Chiken Katsu</item>
+        <item>Garlichiken</item>
+        <item>Jasuke</item>
+        <item>Cake Bento</item>
+        <item>Kimchi</item>
+        <item>Laksa Ramen</item>
+        <item>Miejebew</item>
+        <item>Potato</item>
+        <item>Puding</item>
+        <item>Ramyun</item>
+        <item>Sosisasam</item>
+        <item>Sifon Cake</item>
     </string-array>
     <string-array name="data_dekripsi">
-        <item>Film Dilan 1990 bercerita tentang pertemuan yang dialami oleh dua remaja yang masih sekolah di SMA. Film ini mengangkat sebuah kisah romansa remaja SMA di Bandung yang bernama Dilan (Iqbaal Ramadhan) dan Milea (Vanesha Prescilla).</item>
-        <item>Film 172 Days menceritakan perjalanan cinta seorang perempuan bernama Nadzira Shafa (Yasmin Napper) bersama sang suami Ameer Azzikra (Bryan Domani). Mereka memiliki kehidupan yang berbanding terbalik dan berakhir menyatu dalam sebuah ikatan pernikahan.</item>
-        <item>Dear Nathan menceritakan tentang kisah cinta Nathan dan Salma yang memasuki tahun ketiga. Keduanya telah lulus SMA dan melanjutkan kuliah di kampus yang sama. Namun, hubungan mereka tidak semulus dulu. Nathan dan Salma mulai memiliki perbedaan pendapat dalam hal aktivisme sosial.</item>
-        <item>Melo Dylan menceritakan tentang Melody dan Dylan yang menjadi pemeran utamanya. Melody merupakan murid baru di sekolah Dylan. Ia baru saja pindah karena baru saja putus dengan mantan pacarnya. Masalah itu membuat dirinya sangat terganggu yang membuat Melody mengambil keputusan ini.</item>
-        <item>Film Terlalu Tampan, disutradarai oleh Sabrina Rochelle Kalangie. Film ini sendiri merupakan hasil kerjasama antara Visinema Pictures dengan Kaskus Network. Film ini merupakan hasil adaptasi dari komik Webtoon karya Muhammad Ahmes Avisiena Helvin dan Savenia Melinda.</item>
-        <item>Film Mappacci (Malam Pacar) kian menambah deretan film karya anak bangsa yang mengangkat keindahan budaya Indonesia. Mappacci hadir mengangkat budaya Bugis Makassar yang sarat dengan pesan moril dan jiwa patriotisme, namun dikemas secara humoris. </item>
-        <item>Mariposa bercerita tentang kisah cinta murid SMA antara Acha dan Iqbal yang keduanya berprestasi di sekolah. Acha adalah sosok yang ambisius, sedangkan Iqbal digambarkan sebagai siswa yang cuek dan keras kepala.</item>
-        <item>Teman Tapi Menikah, Semenjak pertama kali bertemu, Ditto (Adipati Dolken) sudah suka setengah mati pada Ayu (Vanesha Prescilla). Bukan karena Ayu adalah seorang artis, tetapi karena Ayu suka bergaya gahar seperti preman. Kocak! Sayangnya selama 11 tahun bersahabat, Ditto selalu gagal keluar dari zona pertemanan. Apa pun usahanya, dari PDKT ke Ayu berkedok nge-band, sampai akhirnya menjadi musisi perkusi profesional, di mata Ayu, Ditto adalah teman makan dan teman curhat semata. Untungnya, kehidupan cinta Ayu yang berliku-liku, sering diselingkuhi sana-sini, memastikan Ditto selalu di dekatnya sebagai tempat curhat langganan. Sampai suatu hari, Ayu bercerita bahwa ia akan menikah dengan pacarnya, seorang pria sempurna luar dan dalam. Ditto harus memilih : menyatakan perasaan atau merelakan cinta pertamanya jadi sahabat seumur hidup. Kalau saja Ayu tidak tahu kelemahan Ditto sebagai pacar : tidak setia. </item>
-        <item>KKN di Desa Penari, Nur, Widya, Ayu, Bima, Anton, dan Wahyu adalah 6 orang mahasiswa yang melaksanakan kuliah kerja nyata (KKN) di sebuah desa terpencil. Namun, mereka sama sekali tidak menyangka bahwa desa yang mereka pilih bukanlah desa biasa. Pak Prabu, sang kepala desa telah memperingatkan mereka untuk tidak melewati batas gapura terlarang. Beberapa hari di desa tersebut, mereka mulai merasakan keanehan. Bima mengalami perubahan sikap dan program KKN mereka akhirnya berantakan.</item>
-        <item>Uang Panai, berkisah mengenai seorang pria bernama Anca (diperankan oleh Ikram Noer) yang kembali ke kampung halamannya di Makassar setelah merantau selama 4 tahun.</item>
-        <item>Jomblo fisabilillah, merupakan film drama komedi romantis, diproduksi oleh Warna Pictures dan merupakan adaptasi dari novel karya penulis best seller Asma Nadia dan Helvy Tiana Rosa. Film ini akan tayang serentak di Bioskop Indonesia mulai 14 September 2023. Skenario film ini ditulis oleh Asma Nadia, Hayati Ayatillah, dan Jastis Arimba. Disutradarai oleh jastis Arimba dengan DOP Moriza Prananda. Diproduseri oleh Helvy Tiana Rosa, Asma Nadia, dan Oki Setiana Dewi </item>
-        <item>Ganjil Genap, Sepasang kekasih yang bernama Gala dan Bara. Mereka telah berpacaran selama 13 tahun yang telah dilewati dengan baik. Sebab, mereka berdua hidup di kota yang sama, yakni Jakarta. Ganjil genap adalah kebijakan baru di Jakarta yang mewarnai perjalanan kisah cinta Bara dan Gala. Hanya saja, ada konflik yang membuat Gala sedih. Bara meninggalkan Gala dan hubungan mereka kandas. Gala yang sudah terbiasa dengan kehadiran Bara sebagai sosok ganjil di hidupnya, mengalami kesedihan yang berkepanjangan. Teman-teman Gala, seperti Aiman turut menemani masa-masa galaunya Gala. Ia harus mencari sosok pengganti ganjil dalam hidupnya.</item>
-        <item>Budi Pekerti, mengisahkan tentang seorang guru BK SMP di Yogyakarta bernama Prani Siswoyo. Cerita bermula ketika Prani sedang merawat suaminya yang diketahui mengalami gangguan jiwa dan membutuhkan perawatan dari seorang psikiater.</item>
-        <item>Ketika Berhenti di Sini, bercerita tentang kehidupan seorang desainer grafis, Anindita Semesta. Dita tidak sengaja bertemu dengan seorang arsitek bernama Edison Kartasasmita dan mulai menjalin hubungan dengannya. Hingga akhirnya tidak terasa jika kisah cinta mereka telah berjalan sampai 4 tahun.</item>
-        <item>Kejar Mimpi, Gaspol yang berkisah seorang single parent dengan segala mimpinya itu di sutradarai oleh Hasto Broto, produser Tyas Abiyogo, penulis Ari Kriting, dan Abdul Arsyad.</item>
-        <item>Surat Cinta Untuk Starl, Hema (Jefri Nichol) adalah seorang cowok yang terobsesi dengan cintanya pada alam yang memiliki keunikan membuat surat cinta untuk alam. Dengan dibantu mesin tik tuanya peninggalan sang kakek mantan jurnalis, Hema membuat mural yang menunjukkan betapa cintanya Reza pada alam ini. Alam adalah satu satunya cinta yang Hema kenal.
-
-Hingga suatu saat Hema mengenal Starla (Caitlin Halderman). Gadis cantik dan mandiri yang selama 6 jam telah berhasil membuatnya jatuh cinta. Untuk pertama kalinya Hema menyadari ada surat cinta yang lebih indah daripada surat cinta untuk alam yaitu surat cinta untuk Starla.</item>
+        <item>Potato garlic adalah hidangan yang terbuat dari potongan kentang yang dipanggang atau digoreng hingga keemasan dan disajikan dengan bawang putih yang diolah dengan berbagai cara. Kentang biasanya dipotong menjadi potongan-potongan yang nyaman untuk disantap, seperti kentang goreng atau kentang tumbuk. Proses memasak kentang ini dapat melibatkan teknik seperti pemanggangan, penggorengan, atau bahkan pemanggangan dalam oven.</item>
+        <item>Bakso goreng adalah hidangan lezat yang terbuat dari bola-bola bakso yang digoreng hingga berwarna cokelat keemasan. Bakso itu sendiri biasanya terbuat dari daging sapi yang diolah dengan tepung tapioka atau bahan pengikat lainnya. Proses penggorengan memberikan tekstur renyah di luar namun tetap kenyal di dalam.</item>
+        <item>Cake adalah sejenis kue yang terkenal dengan teksturnya yang lembut dan cita rasanya yang manis. Dibuat dengan mencampurkan bahan-bahan dasar seperti tepung terigu, gula, telur, mentega, dan bahan pengembang seperti baking powder atau baking soda, cake kemudian dipanggang hingga matang.</item>
+        <item>Cheese roll atau rol keju adalah hidangan yang terdiri dari adonan yang digulung bersama dengan lapisan keju, menciptakan kombinasi lezat dari kelembutan adonan dan keju yang meleleh. Proses pembuatan cheese roll melibatkan pembentukan adonan, penambahan lapisan keju, dan penggulungan menjadi bentuk silinder sebelum dipanggang.</item>
+        <item>aus ayam, atau "chicken sauce," adalah hidangan yang menghadirkan potongan-potongan daging ayam yang dimasak dengan saus yang lezat.</item>
+        <item>Garlic chicken adalah pilihan yang populer karena kombinasi rasa yang sederhana namun menggugah selera. Hidangan ini dapat dijumpai dalam berbagai masakan, dan variasinya dapat mencakup berbagai metode memasak dan penyajian.</item>
+        <item>Jasuke adalah singkatan dari "Jagung Susu Keju," merupakan camilan atau makanan ringan yang berasal dari Indonesia. Deskripsi jasuke mencakup beberapa komponen utama yang membuatnya unik dan lezat</item>
+        <item>Cake adalah sejenis kue yang terkenal dengan teksturnya yang lembut dan cita rasanya yang manis. Dibuat dengan mencampurkan bahan-bahan dasar seperti tepung terigu, gula, telur, mentega, dan bahan pengembang seperti baking powder atau baking soda, cake kemudian dipanggang hingga matang.</item>
+        <item>Kimchi adalah hidangan tradisional Korea yang terbuat dari sayuran yang difermentasi dengan bumbu-bumbu, terutama cabai dan bawang putih.</item>
+        <item>Ramen adalah hidangan mie yang berasal dari Jepang. Ini biasanya terdiri dari mie, kaldu, dan berbagai bahan tambahan seperti daging, sayuran, dan telur</item>
+        <item>"Mie" adalah hidangan populer yang berasal dari Tiongkok dan telah menjadi makanan pokok di banyak bagian dunia. Ini terdiri dari mi (noodle) yang biasanya terbuat dari tepung terigu, air, dan garam.</item>
+        <item>Potato goreng adalah hidangan yang terdiri dari potongan kentang yang digoreng hingga menjadi renyah dan berwarna keemasan. Ini adalah camilan yang sangat populer dan dapat ditemukan di berbagai tempat, mulai dari restoran cepat saji hingga kios makanan jalanan</item>
+        <item>Puding susu adalah hidangan penutup yang lezat dan lembut yang terbuat dari campuran susu, gula, dan bahan-bahan pengental seperti agar-agar, gelatin, atau tepung maizena. </item>
+        <item>Ramyun adalah hidangan yang memadukan kepraktisan mie instan dengan cita rasa dan kekayaan bahan yang khas. Popularitasnya telah merambah ke berbagai negara dan menjadi bagian integral dari budaya kuliner global.</item>
+        <item>Sosis adalah produk daging olahan yang populer di seluruh dunia. Ini umumnya terbuat dari daging yang dihaluskan dan dicampur dengan bumbu-bumbu serta bahan-bahan lainnya.</item>
+        <item>Cake adalah sejenis kue yang terkenal dengan teksturnya yang lembut dan cita rasanya yang manis. Dibuat dengan mencampurkan bahan-bahan dasar seperti tepung terigu, gula, telur, mentega, dan bahan pengembang seperti baking powder atau baking soda, cake kemudian dipanggang hingga matang.</item>
     </string-array>
     <array name="video_id">
-        <item>@raw/dilan_1990</item>
-        <item>@raw/satutujuhduadays</item>
-        <item>@raw/dearnathan</item>
-        <item>@raw/melodylan</item>
-        <item>@raw/terlalutampan</item>
-        <item>@raw/mappacci</item>
-        <item>@raw/mariposa</item>
-        <item>@raw/temantapimenikah</item>
-        <item>@drawable/kkn</item>
-        <item>@raw/uangpanai2</item>
-        <item>@raw/jomblofisabilillah</item>
-        <item>@raw/ganjilgenap</item>
-        <item>@raw/budipekerti</item>
-        <item>@raw/ketikaberenti</item>
-        <item>@raw/kejarmimpi</item>
-        <item>@drawable/scus</item>
+        <item>@raw/potato</item>
+        <item>@raw/baksogoreng</item>
+        <item>@raw/cake</item>
+        <item>@raw/cheserol</item>
+        <item>@raw/chiken</item>
+        <item>@raw/garlichiken</item>
+        <item>@raw/jasuke</item>
+        <item>@raw/kcake</item>
+        <item>@raw/kimchi</item>
+        <item>@raw/laksaramen</item>
+        <item>@raw/miejebew</item>
+        <item>@raw/potato</item>
+        <item>@raw/puding</item>
+        <item>@raw/ramyun</item>
+        <item>@raw/sosisasam</item>
+        <item>@raw/kcake</item>
     </array>
 
 
     <integer-array name="data_gambar">
-        <item>@drawable/dilan</item>
-        <item>@drawable/satutujuhduadays</item>
-        <item>@drawable/dearnathan</item>
-        <item>@drawable/melodylan</item>
-        <item>@drawable/terlalutampan</item>
-        <item>@drawable/mappacci</item>
-        <item>@drawable/mariposa</item>
-        <item>@drawable/temantapimenikah</item>
-        <item>@drawable/kkn</item>
-        <item>@drawable/uangpanai</item>
-        <item>@drawable/jomblofisabilillah</item>
-        <item>@drawable/ganjilgenap</item>
-        <item>@drawable/budipekerti</item>
-        <item>@drawable/ketikaberhenti</item>
-        <item>@drawable/kejarmimpi</item>
-        <item>@drawable/scus</item>
-
+        <item>@drawable/potato</item>
+        <item>@drawable/baksogoreng</item>
+        <item>@drawable/cake</item>
+        <item>@drawable/cheserol</item>
+        <item>@drawable/chiken</item>
+        <item>@drawable/garlichiken</item>
+        <item>@drawable/jasuke</item>
+        <item>@drawable/kcake</item>
+        <item>@drawable/laksaramen</item>
+        <item>@drawable/miejebew</item>
+        <item>@drawable/ramyun</item>
+        <item>@drawable/kimchi</item>
+        <item>@drawable/puding</item>
+        <item>@drawable/ramyun</item>
+        <item>@drawable/sosisasam</item>
+        <item>@drawable/pud</item>
     </integer-array>
 </resources>
